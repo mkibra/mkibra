@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## About Me ℹ️
-Hey there! I'm Muhammad, a passionate student at the University of the People, currently pursuing a degree in Computer Science. 🎓 I'm deeply fascinated by the world of programming and technology, and I'm always eager to learn and explore new concepts.
+Hey there! I'm M, a passionate student at the University of the People, currently pursuing a degree in Computer Science. 🎓 I'm deeply fascinated by the world of programming and technology, and I'm always eager to learn and explore new concepts.
 
 ## Interests 🚀
 - **Java:** ☕️
